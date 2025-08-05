@@ -10,8 +10,8 @@ Overview of prompts used for each of the three key components of the system can 
 | **Component**            | **Prompt Description** |
 |--------------------------|------------------------|
 | **Initial Code Generation** | Generates Python function code based on a natural language specification consisting of a signature, docstring, and doctests. |
-| **Test Input Generation**   | Produces a list of input test cases aimed at exposing potential ambiguities in the given specification. |
-| **Code Correction**         | Modifies buggy or overgeneralized implementations based on failing doctests that clarify the intended behavior. |
+| **Test Input Generation**   | Produces a list of input test cases to probe potential ambiguities in the given specification. |
+| **Code Correction**         | Modifies buggy implementations based on failing doctests that clarify the intended behavior. |
 
 ---
 
