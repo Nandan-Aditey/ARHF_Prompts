@@ -15,3 +15,10 @@ Overview of prompts used for each of the three key components of the system can 
 
 ---
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute the prompts with attribution.
+
+
